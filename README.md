@@ -1,6 +1,6 @@
 # Awesome AI Tools
 
-A curated list of AI coding agents, agent tooling, and AI game-development repos - grouped by what they're for.
+A curated list of 27 AI coding agents, agent tooling, and AI game-development repos - grouped by what they're for.
 
 ## Game Development
 
@@ -40,5 +40,6 @@ A curated list of AI coding agents, agent tooling, and AI game-development repos
 
 ## Security & Code Review
 
+- [Strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool that finds and fixes your app's vulnerabilities.
 - [open-code-review](https://github.com/alibaba/open-code-review) - Hybrid deterministic-pipeline + LLM-agent code review tool with precise line-level comments and built-in multi-language rules (NPE, thread-safety, XSS, SQL injection), battle-tested at Alibaba's scale.
 - [security-guidance (Claude Code plugin)](https://github.com/anthropics/claude-code/tree/main/plugins%2Fsecurity-guidance) - Three-layer security review for Claude-generated code: instant pattern warnings, LLM diff review, and agentic commit review tracing data flow across files.
