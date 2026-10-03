@@ -1,6 +1,6 @@
 # Awesome AI Tools
 
-A curated list of 27 AI coding agents, agent tooling, and AI game-development repos - grouped by what they're for.
+A curated list of 28 AI coding agents, agent tooling, and AI game-development repos - grouped by what they're for.
 
 ## Game Development
 
@@ -25,6 +25,7 @@ A curated list of 27 AI coding agents, agent tooling, and AI game-development re
 - [LiteLLM](https://github.com/BerriAI/litellm) - Fast, light AI gateway: call 100+ LLM APIs in OpenAI format with cost tracking, guardrails, load balancing and logging.
 - [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol.
 - [Playwright](https://github.com/microsoft/playwright) - Web testing and automation framework for Chromium, Firefox and WebKit with a single API.
+- [Agent QA](https://github.com/vostride/agent-qa) - Natural-language web and mobile regression testing with execution memory and MCP tools for coding agents.
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Gives an AI agent eyes on the whole internet: read and search Twitter, Reddit, YouTube, GitHub, Bilibili and XiaoHongShu from one CLI with zero API fees.
 - [caveman](https://github.com/JuliusBrussee/caveman) - Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
 
