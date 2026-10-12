@@ -24,6 +24,7 @@ A curated list of 27 AI coding agents, agent tooling, and AI game-development re
 
 - [LiteLLM](https://github.com/BerriAI/litellm) - Fast, light AI gateway: call 100+ LLM APIs in OpenAI format with cost tracking, guardrails, load balancing and logging.
 - [Model Context Protocol](https://github.com/modelcontextprotocol/modelcontextprotocol) - Specification and documentation for the Model Context Protocol.
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Remote MCP server that connects Codex, Claude Code, Cursor, ChatGPT and other MCP clients to 1,000+ apps and 400+ Skills through one setup ([aident.ai](https://aident.ai)).
 - [Playwright](https://github.com/microsoft/playwright) - Web testing and automation framework for Chromium, Firefox and WebKit with a single API.
 - [Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Gives an AI agent eyes on the whole internet: read and search Twitter, Reddit, YouTube, GitHub, Bilibili and XiaoHongShu from one CLI with zero API fees.
 - [caveman](https://github.com/JuliusBrussee/caveman) - Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
